@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Immediate Connect</string>
+    <string name="title_activity_turing_nav">TuringNav</string>
+    <string name="title_home">Convert</string>
+    <string name="title_dashboard">Rate</string>
+    <string name="title_notifications">Spending</string>
+    <string name="title_activity_navigation_ai">NavigationAi</string>
+    <string name="title_activity_ai_nav">AiNav</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

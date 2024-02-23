@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F88C4D"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/popupText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Your text goes here"
+        android:textColor="#FFFFFF" />
+</LinearLayout>
